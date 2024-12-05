@@ -1,0 +1,68 @@
+Calculator-
+Calculator App A simple and user-friendly Calculator Application designed to perform basic mathematical operations like addition, subtraction, multiplication, and division. This app is ideal for day-to-day calculations and serves as a practical example of how to build interactive applications.
+
+🌟 Features Addition: Quickly add two or more numbers. Subtraction: Perform subtraction of numbers. Multiplication: Multiply numbers with ease. Division: Divide numbers and get precise results. Responsive Design: Works on both desktop and mobile browsers. Clear Button: Reset the input fields for fresh calculations.
+
+🚀 Technologies Used Frontend: HTML, CSS, JavaScript
+
+🎯 How to Use Open the calculator in your browser. Enter numbers in the input fields or buttons provided. Select the operation (+, -, ×, ÷) to perform. View the result instantly in the output area. Use the Clear button to reset and perform new calculations.
+
+🖼️ Screenshot image
+
+
+Paul Walker Tribute Page A heartfelt tribute to Paul Walker, celebrating his life, career, and the legacy he left behind. This page is a simple and elegant web application that showcases key moments of his journey, achievements, and contributions to the film industry and charitable causes.
+
+🌟 Features Biography Section: Highlights Paul Walker's early life and career journey. Responsive Design: Fully optimized for desktops, tablets, and mobile devices. Memorial Quote: Inspiring quote to honor his legacy.
+
+🚀 Technologies Used Frontend: HTML, CSS, JavaScript
+
+🖼️ Screenshot image image image
+
+✨ Future Enhancements Add an interactive timeline of Paul Walker’s life and career. Include a video section with clips from his famous movies. Add a form to allow visitors to share their thoughts or tributes. Provide a donation link to support causes he was passionate about, like Reach Out Worldwide.
+
+🤝 Contributing Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
+
+
+To-Do-App
+A simple and efficient To-Do Application that helps you organize your daily tasks. With features like adding, editing, deleting, and marking tasks as complete, this app is designed to enhance your productivity and simplify task management.
+
+🌟 Features Add New Tasks: Quickly add tasks with a title and description. Edit Tasks: Modify tasks anytime to reflect changes. Delete Tasks: Remove tasks you no longer need. Mark Tasks as Complete: Move completed tasks to a separate list. Pending Tasks List: View all tasks that require completion. Date and Time Stamps: Automatically records when tasks are added or completed. User-Friendly Interface: Clean and simple design for seamless navigation. Fully Responsive: Works perfectly on desktops, tablets, and mobile devices.
+
+🚀 Technologies Used Frontend: HTML, CSS, JavaScript
+
+🎯 How to Use Add Tasks: Enter a title and description for your task in the input fields. Click the Save button to add the task to the pending list. Mark as Complete: Click the Complete button to move a task to the Completed Tasks list. Edit/Delete Tasks: Click the Edit button to modify a task. Use the Delete button to remove a task permanently. View Completed/Pending Tasks: Switch between the Completed Tasks and Pending Tasks sections for better organization.
+
+🖼️ Screenshot image
+
+✨ Future Enhancements Add user authentication for personalized task lists. Integrate a database to persist tasks across sessions. Add reminders and notifications for pending tasks. Include drag-and-drop functionality to prioritize tasks.
+
+🤝 Contributing Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
+
+
+# Simple Login Authentication System
+
+This project is a simple command-line-based login authentication system written in **Python**. It allows users to register, log in, and access a secured page without the need for a database.
+
+## Features
+- **User Registration**: Allows users to create accounts with a username and password.
+- **Password Security**: Passwords are hashed using SHA-256 before being stored.
+- **User Login**: Validates user credentials to grant access.
+- **Secured Page**: Accessible only to logged-in users.
+- **Lightweight**: Uses in-memory storage instead of a database.
+
+## Usage
+1. **Main Menu**:
+   - Choose an option: Register, Login, or Exit.
+2. **Register**:
+   - Enter a unique username.
+   - Provide and confirm a password.
+3. **Login**:
+   - Enter your registered username and password.
+   - Access the secured page upon successful login.
+
+## Security Features
+- **Password Hashing**: Uses SHA-256 to store secure hashes of passwords.
+- **No Plaintext Passwords**: Ensures passwords are never stored in plaintext.
+
+
+💌 Contact Developer: Gagan Ganesh Email: studgagan@gmail.com
